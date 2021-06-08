@@ -59,7 +59,7 @@ body > .container{
   -webkit-overflow-scrolling: touch;  
   overflow-scrolling: touch;
   background: rgb(15,8,122);
-  background: linear-gradient(331deg, rgba(15,8,122,1) 11%, rgba(227,75,2,1) 63%, rgba(255,177,0,1) 100%);
+  background: linear-gradient(331deg, rgb(151, 0, 0) 11%, rgba(227,75,2,1) 63%, rgba(255,177,0,1) 100%);
 }
 
 section{
